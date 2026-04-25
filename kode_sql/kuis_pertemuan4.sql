@@ -14,11 +14,13 @@ CREATE TABLE IF NOT EXISTS mahasiswa (
 );
 
 INSERT INTO mahasiswa (nim, nama, nilai_akhir) VALUES
-('230001', 'Andi', 88),
-('230002', 'Budi', 76),
-('230003', 'Citra', 68),
-('230004', 'Dewi', 55),
-('230005', 'Eka', 40);
+('IK2411061', 'Muhammad Mahruf', 88),
+('IK2411039', 'Fauzan Azima', 76),
+('IK2411029', 'Gefran', 65),
+('IK2411048', 'Sitti Rahma', 70),
+('IK2411008', 'Aulia', 82),
+('IK2411021', 'Ikrimansa', 60),
+('IK2411049', 'Nadya Pratiwi Riswanto', 90);
 
 
 -- 2. QUERY CASE (MENAMPILKAN GRADE & STATUS)
