@@ -4,7 +4,7 @@ Nama: Fauzan Azima
 
 NIM: IK2411039
 
-Kelas: Pemrograman Basis Data
+Kelas: INFORMATIKA
 
 ## Deskripsi
 Tugas ini membahas penggunaan IF dan CASE dalam MySQL.
